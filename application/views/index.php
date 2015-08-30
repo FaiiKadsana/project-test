@@ -1,4 +1,4 @@
-<?php echo "pass";?>
+<?php echo "pass" ;?>
 <!doctype html>
 <html lang="en">
  <head>
