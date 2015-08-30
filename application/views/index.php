@@ -10,7 +10,7 @@
   <title>Document</title>
  </head>
  <body>
- <?php echo $test ;?>//แสดงค่าตัวแปล
+ <?php echo $test ;?>//แสดงค่าตัวแปลต่างๆ
  <form action="<?php echo $action ?>" method="post">
  
  	ชื่อ<input type="text" name="name"/><br>
